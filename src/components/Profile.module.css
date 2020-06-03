@@ -1,0 +1,13 @@
+
+.content {
+    grid-area: c;
+    background-color: lightblue;
+}
+
+.posts {
+
+}
+
+.item {
+    color: greenyellow;
+}
