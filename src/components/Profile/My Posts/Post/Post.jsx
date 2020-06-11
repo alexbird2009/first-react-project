@@ -10,7 +10,7 @@ const Post = (props) => {
         <img src='https://www.winhelponline.com/blog/wp-content/uploads/2017/12/user.png' alt=''></img>
         {props.message}
         <div>
-            <span>Like</span>
+            <span>Like {props.likesCount}</span>
         </div>
     </div>
 }
